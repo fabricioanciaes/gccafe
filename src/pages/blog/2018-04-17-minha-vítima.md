@@ -49,22 +49,22 @@ Good read to everyone.
 ***
 <br>
 
-## Skill vs Ability
+## Technique vs Skill
 
-Since we aren't talking about mathematical sciences, it's hard to say what's wrong or right in fighting games. If we aboard it in a purely mechanical manner (as in hand position, layouts, arcade sticks, gamepads, hitboxes and etc.), it's hard to say what would be considered "the best way", since combos and attacks used in tournament level hardly goes far beyond the average level of execution in a game. Therefore, everything you need to win is within your skill range, be it on a stick, pad or whatever.
+Since we aren't talking about mathematical sciences, it's hard to say what's wrong or right in fighting games. If we aboard it in a purely mechanical manner (as in hand position, layouts, arcade sticks, gamepads, hitboxes and etc.), it's hard to say what would be considered "the best way", since combos and attacks used in tournament level hardly goes far beyond the average level of execution in a game. Therefore, everything you need to win is within your technical range, be it on a stick, pad or whatever.
 
-Though there's one thing you can be certain of: if you dropped a combo, that's because you still lack the skill to execute it or you practiced it wrong. Here we need to stablish two concepts: skill and ability. Keep in mind that we are considering both to be completely different things. I will give an example: Your eyes might see the same image as most people in the world, but you aren't able to read the same things that a japanese person would and they won't be able to read the things you can (in this case, assuming that both only know their native language). Both have the **ability** to see, but being able to read someone else's language is a **skill** that you can only earn by studying. Then, from that, we get the following points:
+Though there's one thing you can be certain of: if you dropped a combo, that's because you still lack the skill to execute it or you practiced it wrong. Here we need to stablish two concepts: techinque and skill. Keep in mind that we are considering both to be completely different things. I will give an example: Your eyes might see the same image as most people in the world, but you aren't able to read the same things that a japanese person would and they won't be able to read the things you can (in this case, assuming that both only know their native language). Both have the ability (the **skill**) to see, but being able to read someone else's language is a **technique** that you can only earn by studying. Then, from that, we get the following points:
 <br>
 
-* If you drop combos of medium/low difficulty, you lack skill;
-* If you have a hard time changing layouts from where your input comes from (gamepad, arcade stick, etc.) but you can play on your habitual controller, you lack skill in your new layout;
-* If you can't do the harder combos of your own character, you lack the skill, or ability or both.
+* If you drop combos of medium/low difficulty, you lack technique;
+* If you have a hard time changing layouts from where your input comes from (gamepad, arcade stick, etc.) but you can play on your habitual controller, you lack technicality in your new layout;
+* If you can't do the harder combos of your own character, you lack the technique, or skill or both.
 
 <br>
 
-### Ability
+### skill
 
-Now that we stablished that **skill** and **ability** are different things, I can tell you that we can evolve in both departments, not necessarily at the same time, but without even having to play videogames for that. In our midst, we can say that a highly able person can exert a precise neuromuscular control of their fingers, in isolated and combined different movements. Having such notable ability doesn't mean necessarily that you already qualify as an excellent player, instrumentalist or typewriter, because such ability must be trained to its language, in other words, to its skill.
+Now that we stablished that **technique** and **skill** are different things, I can tell you that we can evolve in both departments, not necessarily at the same time, but without even having to play videogames for that. In our midst, we can say that a highly able person can exert a precise neuromuscular control of their fingers, in isolated and combined different movements. Having such notable skill doesn't mean necessarily that you already qualify as an excellent player, instrumentalist or typewriter, because such ability must be trained to its language, in other words, to its technique.
 
 
 <br>
@@ -117,23 +117,23 @@ Here's an observation: If you play with a gamepad since ever (like most people t
 
 <br>
 
-### Skill
+### Technique
 
-We saw that ability alone is simply about how agile our hands can be, and we can compare ourselves to musicians in this case. Here is an example of pure dexterity:
+We saw that skill alone is simply about how agile our hands can be, and we can compare ourselves to musicians in this case. Here is an example of pure skillfulness:
 
 * https://youtu.be/obs406VmUa8
 
 <br>
 
-Here we see that, though he is very able and dexterous, if someone who knows the musical language and recognizes technical problems, he would be able to tell that the sonority is polluted, the notes don't sound straight, there are some notes mistakes and etc. However, you can't say that there's no ability in it, or how would some say in the music community, talent.
+Here we see that, though he is very skilled and capable, if someone who knows the musical language and recognizes technical problems, he would be able to tell that the sonority is polluted, the notes don't sound straight, there are some notes mistakes and etc. However, you can't say that there's no skill in it, or how would some say in the music community, talent.
 
-In this case, we can see a musician that is extremely able and skillful:
+In this case, we can see a musician that is extremely skillful in his technical plenitude:
 
 * https://youtu.be/WSvjIUr9MHA
 
 <br>
 
-Now, sound is absolute, clear, clean and sound (no pun intended). All notes are audible, without noise, interference or failures. The sound quality is the result of a very well studied unique skill. This is confirmed when we pick musicians of same repertoire that requires less skill, but that needs the same technical control:
+Now, sound is absolute, clear, clean and sound (no pun intended). All notes are audible, without noise, interference or failures. The sound quality is the result of a very well studied unique technique. This is confirmed when we pick musicians of same repertoire that requires less skill, but that needs the same technical control:
 
 * https://youtu.be/20L6n9aZbkU
 * https://youtu.be/BcI7M6OtyyI
