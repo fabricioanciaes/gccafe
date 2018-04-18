@@ -138,7 +138,7 @@ Now, sound is absolute, clear, clean and sound (no pun intended). All notes are 
 * https://youtu.be/20L6n9aZbkU
 * https://youtu.be/BcI7M6OtyyI
 
-The sound qualities, that come solely from the technical control, maintain themselves, even in "difficult" repertoires, or in "simpler" ones. If, in music, sonority and wrong notes comes from the fruit of bad learning methods, in fighting games, dropped combos is the consequence of a inefficient training method.
+The sound qualities, that come solely from the technical control, maintain themselves even in "difficult" repertoires or in "simpler" ones. In music, if sonority and wrong notes comes from the fruit of bad learning methods, in fighting games, dropped combos is the consequence of a inefficient training method.
 
 <br>
 
