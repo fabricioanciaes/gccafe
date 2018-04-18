@@ -119,3 +119,33 @@ Here's an observation: If you play with a gamepad since ever (like most people t
 
 ### Skill
 
+We saw that ability alone is simply about how agile our hands can be, and we can compare ourselves to musicians in this case. Here is an example of pure dexterity:
+
+* https://youtu.be/obs406VmUa8
+
+<br>
+
+Here we see that, though he is very able and dexterous, if someone who knows the musical language and recognizes technical problems, he would be able to tell that the sonority is polluted, the notes don't sound straight, there are some notes mistakes and etc. However, you can't say that there's no ability in it, or how would some say in the music community, talent.
+
+In this case, we can see a musician that is extremely able and skillful:
+
+* https://youtu.be/WSvjIUr9MHA
+
+<br>
+
+Now, sound is absolute, clear, clean and sound (no pun intended). All notes are audible, without noise, interference or failures. The sound quality is the result of a very well studied unique skill. This is confirmed when we pick musicians of same repertoire that requires less skill, but that needs the same technical control:
+
+* https://youtu.be/20L6n9aZbkU
+* https://youtu.be/BcI7M6OtyyI
+
+The sound qualities, that come solely from the technical control, maintain themselves, even in "difficult" repertoires, or in "simpler" ones. If, in music, sonority and wrong notes comes from the fruit of bad learning methods, in fighting games, dropped combos is the consequence of a inefficient training method.
+
+<br>
+
+***
+
+<br>
+
+## Demystifying the Learning Process
+
+Coming soon...
