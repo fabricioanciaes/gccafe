@@ -62,7 +62,7 @@ Though there's one thing you can be certain of: if you dropped a combo, that's b
 
 <br>
 
-### skill
+### Skill
 
 Now that we stablished that **technique** and **skill** are different things, I can tell you that we can evolve in both departments, not necessarily at the same time, but without even having to play videogames for that. In our midst, we can say that a highly able person can exert a precise neuromuscular control of their fingers, in isolated and combined different movements. Having such notable skill doesn't mean necessarily that you already qualify as an excellent player, instrumentalist or typewriter, because such ability must be trained to its language, in other words, to its technique.
 
