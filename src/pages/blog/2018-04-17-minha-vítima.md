@@ -11,6 +11,7 @@ tags:
 # Study of Extended Techniques and Muscular Memory applied to Fighting Games
 
 <br>
+
 ## Introduction
 
 In this treatise, I intend to aboard efficient and not so usual techniques for mechanical combo training in fighting games. Even though it is a basic aspect and initial for player of this genre, many players go through some difficulties when trying to execute some sequences, very often for not having a proper learning method, for having some kind of technical difficulty or for making their transition to an arcade stick.
@@ -23,18 +24,20 @@ The Objective here is to show advanced techniques to learn and execute in order 
 <br>
 
 * Garou: Mark of the Wolves - B. Jenet (13 Feint Cancels):
-    * https://youtu.be/is5rYx5Y2is
-<br>
-
+      * https://youtu.be/is5rYx5Y2is
+  <br>
 * King of Fighters 98 - Kim Kaphwan (5 Haki Cancels):
-    * https://youtu.be/NkHtHxC2YZk
+  * https://youtu.be/NkHtHxC2YZk
 
 <br>
+
 #### Disclaimer about the videos:
 
-    Some people might end up doubting if the execution videos I made aren't using any kind of cheat to help. In Garou: Mark of the Wolves, there’s no necessity to prove that the combo execution is real, because it was done on an arcade cabinet. But, since Kim’s combo in King of Fighters ‘98 was done on the computer, some may doubt that the execution might have been tampered.
+```
+Some people might end up doubting if the execution videos I made aren't using any kind of cheat to help. In Garou: Mark of the Wolves, there’s no necessity to prove that the combo execution is real, because it was done on an arcade cabinet. But, since Kim’s combo in King of Fighters ‘98 was done on the computer, some may doubt that the execution might have been tampered.
 
-    Therefore, for the people that doubt that it was done without any kind of help, you can check the video’s description to see the whole recording with no editing. Also, by the end of the video I prove that it was done without any cheating.
+Therefore, for the people that doubt that it was done without any kind of help, you can check the video’s description to see the whole recording with no editing. Also, by the end of the video I prove that it was done without any cheating.
+```
 
 <br>
 Like in the videos above, it’s possible to do advanced combos with what I will teach you here, but the main focus here is your execution and how to better it, and for that I will use the simplest examples I could bring and I will start from the most basic point when it comes to skill. The simples examples are essential since we don’t have to worry about nothing else besides execution methods, noteven about what we are executing. Futurely, the readers that will mature with these practices taught here will have maturity enough to direct themselves to study the game or combo on their own whenever they feel like.
@@ -42,8 +45,11 @@ Like in the videos above, it’s possible to do advanced combos with what I will
 Good read to everyone.
 
 <br>
-  
-***
+ 
+
+---
+
+
 <br>
 
 ## Skill vs Ability
@@ -58,12 +64,13 @@ Though there's one thing you can be certain of: if you dropped a combo, that's b
 * If you can't do the harder combos of your own character, you lack the skill, or ability or both.
 
 <br>
+
 ### Ability
 
 Now that we stablished that **skill** and **ability** are different things, I can tell you that we can evolve in both departments, not necessarily at the same time, but without even having to play videogames for that. In our midst, we can say that a highly able person can exert a precise neuromuscular control of their fingers, in isolated and combined different movements. Having such notable ability doesn't mean necessarily that you already qualify as an excellent player, instrumentalist or typewriter, because such ability must be trained to its language, in other words, to its skill.
 
-
 <br>
+
 ### Exercises for Neuromuscular Control
 Here we finally begin some training. Below I will list some exercises that will improve your neuromuscular capacity for finger control. In order to make things easier to understand, I will mark each finger with a number:
 
@@ -113,4 +120,3 @@ Here's an observation: If you play with a gamepad since ever (like most people t
 <br>
 
 ### Skill
-
