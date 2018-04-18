@@ -148,4 +148,90 @@ The sound qualities, that come solely from the technical control, maintain thems
 
 ## Demystifying the Learning Process
 
-Coming soon...
+In order to make our learning process become more objective and efficient, we need firstly to understand what barriers are in our way. Let's see the first one of them:
+
+<br>
+
+### What is Difficulty?
+
+Here, I ask you to stick with me in the following exercises, it might sound silly but they are important. The next exercise is absolutely fundamental to help me show you the ideas behind the study of technique. You will need a pen and a sheet of paper, and then make the following drawing:
+
+[Insert Drawing 1 here]
+
+<br>
+
+Now, I need that you fill the space above the top main horizontal line with your name and surname, in **CAPITAL LETTERS** and reverse order (but not written in the "mirrored" way). If you already done that too many times, try picking another word, any will do as long as is an unusual word. In the end, it will look like this:
+
+[Insert Drawing 2 here]
+
+<br>
+
+Next, you fill the bottom one with the same thing you wrote the first, but now in the normal order of letters:
+
+[Insert Drawing 3 here]
+
+<br>
+
+Keeping on the exercise, you can put the following attributes to each line:
+
+[Insert Drawing 4 here]
+
+<br>
+
+All attributes are opposite, and you obviously noticed that the first line was harder to fill since you did an unusual exercise, therefore we did it slower. Meanwhile, the second one was easier and quicker because you are used to it, it is *habitual*.
+Now we will analize the movements of our hands. In the following video I will write in a retroactive manner and in a slower manner. However, each one has a motor characteristic:
+
+* https://youtu.be/9oj1QEN4t8s
+
+<br>
+
+When you wrote in reverse order, did you write like in the first manner: slower but without interruptions, or like the second: fast but with intervals to think what to write next? I believe most did like the second one. If we analyze our writing when we are doing it in the normal way or the retroactive way, you can see that it is exactly the same physically. Therefore, what changes between something we are used to and not used to do is the "quantity" of thinking we do while we progress in the activity. When the acitivty is not habitual we take way more time, shown in the following picture:
+
+[Insert Drawing 5 here]
+
+<br>
+
+The same happens when we do combos, and if you are using a new kind of controller, it gets way worse.
+When we were younger and were learning how to write, we did go through some stages. We went through the study of letters and some notebooks of calligraphy. We went though vowels, consoants, syllabes and finally words. How much time did it take till we started writing things well on our own? 1 or 2 years? 
+
+But when we go to combos, some people go straight to writing poetry, without preparing themselves first. Players try to imitate combo videos that only hardcore players do without knowing the basics. And the results are obvious: the players gets frustrated that he can't do them like the pros can. If we began learning how to write by trying to copying shapes we didn't even understand we would end up experiencing the same kind of frustration.
+
+However, if you tell an adult that he has to learn how to move first and foremost (walk, dash, jump and etc.) and then that he can learn to do commands later (fireballs, dragon punchs, supers and such) so that he can finally learn a combo, he might end up saying: "This is too easy, I'll jump straight to the interesting part", therefore neglecting the base of the whole game. 
+
+Same can be applied to a gamepad player that is migrating to an arcade stick: He might go directly to the intermediate stuff, get frustated and say "this sucks, my pad is better", which leads to the comparison of before: he has the ability to see (the skill) but doesn't know how to read the language (the technique).
+
+If you started using arcade stick right now you might ask me: "I didn't need to go through all of this stuff when I started playing with a pad!". And the answer for that is that you probably played an older game like Street Fighter 2 or Mortal Kombat and barely tried to do something complex, and then probably got around discovering a thing or two by pressing buttons in a happy-go-lucky way. You ended up getting used to the game without even noticing that you took your time to get used to the controls.
+
+Now that you've grown up and is starting to use an arcade stick, you probably know that jumping around and pressing buttons like crazy won't work, but in a technical level you are pretty much a beginner since you don't know how to do the basics of the game in a comfortable manner. You probably won't be able to deal with the oponents that you fought even before because you way busier thinking how to use your stick instead.
+
+In order to go beyond you were before, you need to retake the basic steps before going to where you were stopped ("learning the language before writing poetry"). In short, the most important is to reduce the difficulty of things till you get used to them and be able to respond without thinking too hard, and then take the next step of difficulty again and again. It's a long process, but your patience will reward you.
+
+Now, we can take our next step in our learning process, which can be somewhat hard to deal with, specially if you are an adult: Do "you know what to do"?
+
+<br>
+
+### Implementing a New Technique. What's your focus?
+
+At this point, specially to the people that changed their playing methods, it is really common to ask themselves if everything is as simple as they seem to be. If you are a new stick user, you probably thought if the pad wasn't better for you already. Let's do another exercise! In it I will demystify this false difficulty endorsed by the lack of an efficient learning method. I ask you all to follow the steps precisely, without interventions.
+
+In the video below, there will be a phrase that will show up for a short moment. You can't repeat the video nor look for the phrase in the video's timeline preview. The phrase will show up at any point in the video, be it at the beginning, middle or end of it. **PAY ATTENTION TO IT**. If you miss it, ask another person to watch the video and tell what the phrase was. **DO NOT REPEAT IT PLEASE**.
+
+[INSERT EXERCISE VIDEO IN ENGLISH - ORIGINAL WON'T DO IT BECAUSE IT IS IN PORTUGUESE]
+
+<br>
+
+Here we are recreating one common situation in a match: the opportunity for a punish. it's a moment of high tension and it's where most of the execution mistakes happen. Let's see the characteristics of this situation:
+
+* Small oppontunity window;
+* Hard execution;
+* Too little time to rationalize;
+* Aplicattion of a technique in a short amount of time.
+
+<br>
+
+Now, you may be thinking how the exercise is similar to a punish opportunity in a match?
+Let's consider that making voice sounds is a skill. It is a skill that most people do (save for people that have some sort of health issue that refrains them of doing so). However, reading is a technique that is determined by regional and social context that someone finds themselves in. Therefore, if you american, there's a high probability that your native language is English. Being so, your communication skill is english speaking, while there are others like japanese speaking, spanish speaking, french speaking and etc.
+
+In the moment of the exercise we applied our skill without much time to rationilize, and in a short time frame of the small opportunity window. Like in a fighting game, you will end up confronting inumerous small windows like that, and that you will need to apply your technique enough so that you can get the biggest amount of damage as possible.
+
+More coming soon...
