@@ -156,25 +156,25 @@ In order to make our learning process become more objective and efficient, we ne
 
 Here, I ask you to stick with me in the following exercises, it might sound silly but they are important. The next exercise is absolutely fundamental to help me show you the ideas behind the study of technique. You will need a pen and a sheet of paper, and then make the following drawing:
 
-[Insert Drawing 1 here]
+![Drawing 1](https://i.imgur.com/uoFZWhO.jpg)
 
 <br>
 
 Now, I need that you fill the space above the top main horizontal line with your name and surname, in **CAPITAL LETTERS** and reverse order (but not written in the "mirrored" way). If you already done that too many times, try picking another word, any will do as long as is an unusual word. In the end, it will look like this:
 
-[Insert Drawing 2 here]
+![Drawing 2](https://i.imgur.com/q7LqTZE.jpg)
 
 <br>
 
 Next, you fill the bottom one with the same thing you wrote the first, but now in the normal order of letters:
 
-[Insert Drawing 3 here]
+![Drawing 3](https://i.imgur.com/TGn4rEa.jpg)
 
 <br>
 
 Keeping on the exercise, you can put the following attributes to each line:
 
-[Insert Drawing 4 here]
+![Drawing 4](https://i.imgur.com/eFNKWXb.jpg)
 
 <br>
 
@@ -187,7 +187,7 @@ Now we will analize the movements of our hands. In the following video I will wr
 
 When you wrote in reverse order, did you write like in the first manner: slower but without interruptions, or like the second: fast but with intervals to think what to write next? I believe most did like the second one. If we analyze our writing when we are doing it in the normal way or the retroactive way, you can see that it is exactly the same physically. Therefore, what changes between something we are used to and not used to do is the "quantity" of thinking we do while we progress in the activity. When the acitivty is not habitual we take way more time, shown in the following picture:
 
-[Insert Drawing 5 here]
+[Drawing 5](https://i.imgur.com/vDTgRpw.jpg)
 
 <br>
 
@@ -234,4 +234,22 @@ Let's consider that making voice sounds is a skill. It is a skill that most peop
 
 In the moment of the exercise we applied our skill without much time to rationilize, and in a short time frame of the small opportunity window. Like in a fighting game, you will end up confronting inumerous small windows like that, and that you will need to apply your technique enough so that you can get the biggest amount of damage as possible.
 
-More coming soon...
+The situation we created in the video is very opressive and induces to make mistakes, even though the words were written in the wrong manner, your read might've been correct. Now you are allowed to read what was in the video with calm. You see that the words "home" and "disappeared" have letters in mixed order and the word "hamster" has a "4" instead of an A.
+That happens because, since you have to do some fat reading, you simply don't have enough time to rationalize and tend to execute actions automatically, which makes you brain process accordingly to the knowledge you have learned beforehand. Therefore, your brain will go for a muscular memory that fits the situation properly and execute it. You don't know the words "h4mster", "diasppeaerd" and "hoem" but you do know "hamster", "disappeared" and "home", and so you will read them like if they were right since they have similar visuals, since you use them in your regular life. 
+
+Now, imagine that you weren't an arcade stick user, just managed to get one after years of playing on a gamepad, went to play your favorite FG and saw an opportunity for a punish. What will you brain do? The answer is that it will go for the most obvious direct response he has in your brain, that can't be done because you are not using a pad anymore.
+
+Now, let's get to what really makes we learn new techniques: forgetting the old ones. The problems really comes when you already know what to do, can do, but cannot do on your new controller. In order to get going with your new life, you need to **never** think about going back to the old one: *it doesn't exist anymore*. Secondly, reduce the difficulty of the tasks you are executing and be aware of how you are doing it and if you are doing it correctly. Therefore, forget about playing online matches, forget about playing high level CPUs. You should spend something like 1 or 2 months only training, barely playing (if at all) against something and then go for the single player modes, and then, to the online matches (with the lower level players and then working on harder opponents).
+
+That's fundamental, since you will end up getting into situations that you don't have enough time to rationalize, and your muscle memory will go towards executions that are impossible to do on what you are using. If you try to rationalize, you will end up on the situation of "writing in reverse order", where you execution will become slow, confused and probably erroneous.
+
+If you understood that it will take quite some time of your life, then we can keep going to the next stage of training.
+
+<br>
+
+---
+
+<br>
+
+## Controller Choice
+
