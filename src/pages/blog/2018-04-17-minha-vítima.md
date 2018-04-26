@@ -251,5 +251,116 @@ If you understood that it will take quite some time of your life, then we can ke
 
 <br>
 
-## Controller Choice
+## Controller of your Choice
+
+The choice of what technique to improve must part from a concious choice and a really basic question: what will offer me the most control? the conclusion that some might come with is: "it's the gamepad because it is the controller that I play the best". Like we said before, that's just because you are used to it but it doesn't necessarily mean it's better, since it has some flaws that makes some inputs harder to execute. Next up, we will analyze all sorts of controllers and methods of using them, and with that analysis we will have some basic idea of which fundamentals we have to apply in order to improve our technique.
+
+<br>
+
+### Gamepad 
+
+So, let's face straight up the biggest problem of the Pad: the restriction of the thumbs. In older fighting games that might not pose much of a problem, but with how Fighting Games work nowadays (with myriads of commands and combinations) you will need to use more of your right hand to execute more demanding stuff. Some Pads that are made for FGs mgiht mitigate this problem a little, but it doesn't change the fact that the face buttons are mostly made to be pressed with your thumb, and even if you don't use only your thumb for them other controllers are probably a more comfortable choice because of the button size and less awkward hand position.
+Another problem that Pads might add is the lack of padronization: you will end up depending on the quality of controllers of each new generation of console and the quality of 3rd party Fighting Games Pads, which can merely not exist futurely too.
+
+<br>
+
+### Keyboard/Hitbox
+
+Here we have a really good control system. Each direction and attack button is assigned to a specific finger, making so that most if not all of your fingers are well utilized.
+You having directions buttons at your disposal also means that you might be able to apply techniques that you use for attack buttons to your movement too.
+
+The minor difference between a Hitbox and a Keyboard is that the Hitbox has bigger buttons and more free space between them to be more comfortable, while keyboards you have multiple buttons keys around which might get in the way when pressing simultaneos buttons.
+
+The biggest problem a keyboard, a hitbox or whatever alternative methods we use is that they are not the norm: You will become dependant of your own controller, and if you have to need a substitute for some reason while in tournaments, you will hardly perform as well as in your own setup, and that becomes 10x more accentuated with hitboxes since it's harder to find people who uses it.
+
+<br>
+
+### Arcade Stick - Traditional Posture
+
+Let's see the traditional way of holding an arcade stick, where the left hand revovles around the movement stick:
+
+[Arcade Stick Traditional Image]
+
+<br>
+
+Like in the Hitbox/Keyboard, your right hand becomes free to press multiple button with ease. What we will focus here is what the left hand does:
+
+[Arcade Stick Traditional Directions Image]
+
+<br>
+
+Since your hand is revolving around the whole balltop, some of the movements are restringed, and you will need to use your whole arm if you need a finger like your thumbs make the movement to upwards or left, for example. In this way, the only directions were you can choose if you want to use your fingers or your arm to move is downwards or its diagonals, which means you can do movement without "overlapping".
+
+Let me explain what's the deal with overlapping movement: When you do movements that you have only one option (I mean in a comfortable manner), like moving your arm to press foward on the stick, you will be obligated to move your arm to the neutral position in order to do that movement again. That means you can't do an overlap.
+
+When you have two ways of applying movement to the stick, you can do one while preemptively applying the other after the first is done (overlapping them), therefore applying moves much faster and without much hassle. Something similar to that but applied to buttons is the "piano" movement done in order to execute Chun Li's Lightning Kick, is a way more pratical and precise way of doing so than mashing the same button like crazy in hopes for it to go out finally.
+
+<br>
+
+### Arcade Stick - Wineglass
+
+Here I will show the control method I use for Arcade Stick and that's also the one I think it's the best to grow used to. I really recommend this method because it makes things less stressful when it comes to input speed with directions.
+
+Let's show the hands position for wineglass:
+
+[Arcade Stick Wineglass Image]
+
+<br>
+
+The right hand is the same as the Tradiitonal Arcade Stick and Hitbox. Let's see what the left hand offers:
+
+[Arcade Stick Wineglass Directions Image]
+
+<br>
+
+Here I show the two mains advantages of the Wineglass hold:
+
+* The Balltop isn't restringed by your hand;
+* Each direction has more than one way of applying movement, being most of them done by your thumbs.
+
+The directions 4, 7, 8, 9 and 6 can be executed by both your arm and your thumbs (if you don't know what these numbers mean go google "fighting games number notation", it will help you in a lot of anime games or japanese methods of combo writing). Since we can do these directions with both ways, things like dash, air dash and Dragon Punch become easier to do by just applying one direction with your thumb and then with your arm or vice-versa. Another example is doing a simple movement for crouch guard: use your middle finger or ring finger to press direction 2, and then use your arm pull backwards for 4, which will end up naturally on 1.
+
+* https://youtu.be/ph75ffvA9Tk
+
+<br>
+
+For an instant air dash (IAD), you can do direction 9 and do 6 with your arm fast while your thumb is going back from 9:
+
+* https://youtu.be/Am3_f04dd9Y
+
+<br>
+
+Since every technique isn't flawless, you can see that in the last video, the IAD didn't go too far even if the input was right, since it was fast enough that the height for the jump wasn't enough to the airdash to be recognized. Here is the same input done slower:
+
+* https://youtu.be/rCRzjh4EiAg
+
+<br>
+
+With the Wineglass hold, each direction can be done more individually and faster since repetitive direction are done by different parts of your body. This is one of the aspects that made possible combos done in the beginning of this study. This way, the dash comes instantly with not a lot of stress on the arm, which leads to easier execution. Please watch these videos again, and look at the dassh execution:
+
+* Garou: Mark of the Wolves - B. Jenet (13 Feint Cancels):
+https://youtu.be/is5rYx5Y2is
+
+<br>
+
+* King of Fighters 98 - Kim Kaphwan (5 Haki Cancels):
+https://youtu.be/NkHtHxC2YZk
+
+<br>
+
+Once again, none of the directions are really needed to be done by your arm, which might be the slowest member to move, which means it's preferred that you use your fingers most of the time save for quick repeated directions.
+
+<br>
+
+---
+
+## Rewriting Muscular Memory
+
+Once you have chosen which controller you are going to stick with, we will begin with defining which fundamental elements are taking part of our execution. Our main objective here is to develop a technique that is clean, relaxed and free from errors as much as possible, therefore we have to assume that there's only one best option of doing so. 
+
+This execution method will only fit us if we understand it in depth and to get to that we will go through 3 steps of analysis: Sensorial Movement Development, Continuous Movement Development and Consistent Movement Development. For each level of execution we will go through the steps mentioned before. For example, in order to learn a better way of doing a dash, we will do sensorial training, then continuity training, and lastly consistency training. The same will be done with special attack motions (fireball, dragon punch, charges and such) and then for combos.
+
+<br>
+
+### Sensorial Movement Development
 
