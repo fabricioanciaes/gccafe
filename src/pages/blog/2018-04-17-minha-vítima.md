@@ -364,3 +364,10 @@ This execution method will only fit us if we understand it in depth and to get t
 
 ### Sensorial Movement Development
 
+During the writing and reading exercises, we understood that if we practice certain actions, we are conduced to execute them without the need to rationalize it. So, to guarantee that our minds selects the right actions, we need a rigid training in order to develop our muscular memory through a sensorial practice.
+
+This time, we develop our movements in instances. In others words, we have to focus in each minimal thought of a movement execution, for example: when we press direction 6 on the controller, what's the best way of doing so? What part of the finger should you use? How's the sensation of pressing the button/moving the stick? That said, we will register in our memories how each movement has to be done in order to become more precise for later steps of the training in the final chapters.
+
+One thing important to notice: Most of the execution mistakes that you might end up doing is probably because of the accumulated tension from previous commands. E.g.: In Garou, if you are doing feint cancels with Jae Hoon, you might end up dropping on the 4th or 5th feint. That's not because you still don't know how to do feint cancels properly, but because you accumulated so much tension over the execution os the feint cancels that you couldn't do more properly and you didn't manage to get some resting time between commands.
+
+At some point of the execution, the concept of "proper" was left behind and the idea of "good enough" took priority, which is the same as "proper done wrong". "Be able to do combos" works in matches but not in training. From now on, just being able to do attacks is not the point, but being able to do clean inputs is. For that, sensorial development is essential, because it gives us the sense of what is a relaxed and precise execution.
