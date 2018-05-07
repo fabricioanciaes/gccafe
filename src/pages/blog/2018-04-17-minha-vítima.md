@@ -371,3 +371,92 @@ This time, we develop our movements in instances. In others words, we have to fo
 One thing important to notice: Most of the execution mistakes that you might end up doing is probably because of the accumulated tension from previous commands. E.g.: In Garou, if you are doing feint cancels with Jae Hoon, you might end up dropping on the 4th or 5th feint. That's not because you still don't know how to do feint cancels properly, but because you accumulated so much tension over the execution os the feint cancels that you couldn't do more properly and you didn't manage to get some resting time between commands.
 
 At some point of the execution, the concept of "proper" was left behind and the idea of "good enough" took priority, which is the same as "proper done wrong". "Be able to do combos" works in matches but not in training. From now on, just being able to do attacks is not the point, but being able to do clean inputs is. For that, sensorial development is essential, because it gives us the sense of what is a relaxed and precise execution.
+
+Let's begin the learning of sensorial movement! For making things easier to understand, I will use some tape to show were I press on the ball top in order to show where the movement is going and what sort of movement is making the stick react to a direction. Also, a reminder: to return to the neutral position (direction 5), we won't our strength to move the stick back to it, but will just relax our finger ou arm so it goes back to it naturally. 
+
+In the links below I will show how each direction must be done so sensorial development happens. Keep in mind that there are 4 parts to each movement: body in rest, body in contact with the controller, body giving momentum to the controller and it relaxing back to the resting step. Each video I used my arms and my fingers to show the possibilities of execution:
+
+<br>
+
+* Direction 6 with arm and thumb:
+
+https://youtu.be/jucujoY4N88
+
+<br>
+
+* Direction 4 with arm and thumb:
+
+https://youtu.be/FzR22EJrIA8
+
+<br>
+
+* Direction 8 with arm and thumb:
+
+https://youtu.be/y2pRHpLSIBA
+
+<br>
+
+* Direction 2 with arm and fingers:
+
+https://youtu.be/p-jhR3S1iqo
+
+<br>
+
+* Direction 7 with arm and thumb:
+
+https://youtu.be/iVKXxg9JCs0
+
+<br>
+
+* Direction 9 with arm and thumb:
+
+https://youtu.be/JtrZFUriK_I
+
+<br>
+
+* Direction 1 with arm (inputting 4) and fingers (inputting 2):
+
+https://youtu.be/A2NjCffrq2E
+
+<br>
+
+* Direction 3 with arm (inputting 6) and fingers (inputting 2):
+
+https://youtu.be/xACT3hWdwh0
+
+<br>
+
+Reminder that the idea behind the exercise is to get used to our controller, therefore we must get used to doing direction with least difficulty as possible. So, I ask to be patient and try figuring out what's the most effortless way of inputting directions with your controller of choice. Repeat it and test doing it everytime you get to test your buttons in training.
+
+Done with that, we will continue to our next step.
+
+<br>
+
+### Continuous Movement Development
+
+This exercise is even simpler than the one before, but requires that you conquered the movement of the last exercise. We will just do the previous movements in single bursts of double tapping each direction this time.
+
+Beforehand, it's extremely important that you feel the 4 parts of the movement when doing this, so you can maintain this sort of movement with your senses too.
+If you don't think you are feeling the four parts of the movement input when doing the bursts, try going back to the sensorial exercise so that you can stablish your sense better. This exercise also requires multiple repetitions and it's important that you alternate for sensorial movement in a proportion of 3:1 of sensorial to continuous movement for practice.
+
+Here is the video of the directions done in sensorial movement, but in the continuous movement version:
+
+ https://youtu.be/XumP_EQEVCE
+
+<br>
+
+### Consistent Movement Development
+
+After the continuous movement exercise, we will develop consistency. For that, we will use the metronome again. Set it to 120 bpm and then input directions for every 4 beats. Whenever you feel like you got the hang of it you can reduce the number of beats for each input (do the input every 3 beats and so on). Keep in mind that you don't have to reduce the interval of beats from day one, just do it on your own pace till you get confortable. Here's an example of me doing this:
+
+* https://youtu.be/4KR2tHTPbu0
+
+<br>
+
+**Some people might feel like skipping this section**, for that I simply ask you to go through this bothersome process since it IS the most important part of the guide. The results in the depende of how (not) tired you get from all the usage of your controller of choice and saving yourself from the stress of it. If you end up skipping this part, you will end up stressing your hands and arms, and end up losing control of yourself faster in a series of matchs.
+
+<br>
+
+---
+
+## Formation of Commands
